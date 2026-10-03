@@ -1096,25 +1096,22 @@ local UIStroke = Instance.new("UIStroke")
 UIStroke.ZIndex = 1
 UIStroke.Parent = stebve
 
-local Pizzzzzza = Instance.new("TextButton")
-Pizzzzzza.Size = UDim2.new(0, 57, 0, 25)
-Pizzzzzza.Position = UDim2.new(0.36400747299194336, 0, 0.34912458062171936, 0)
-Pizzzzzza.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Pizzzzzza.TextColor3 = Color3.fromRGB(255, 255, 255)
-Pizzzzzza.Text = [=[Vintik]=]
-Pizzzzzza.Font = Enum.Font.SourceSans
-Pizzzzzza.BorderSizePixel = 0
-Pizzzzzza.AnchorPoint = Vector2.new(0, 0)
-Pizzzzzza.ZIndex = 1
-Pizzzzzza.Visible = true
-Pizzzzzza.Parent = Other
-
-local PizzaEvent = Instance.new("RemoteEvent")
-PizzaEvent.Parent = Pizzzzzza
+local dfsdfghdrhfdgkjnfdsagkjnfdas = Instance.new("TextButton")
+dfsdfghdrhfdgkjnfdsagkjnfdas.Size = UDim2.new(0, 57, 0, 25)
+dfsdfghdrhfdgkjnfdsagkjnfdas.Position = UDim2.new(0.5193138122558594, 0, 0.348889023065567, 0)
+dfsdfghdrhfdgkjnfdsagkjnfdas.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+dfsdfghdrhfdgkjnfdsagkjnfdas.TextColor3 = Color3.fromRGB(255, 255, 255)
+dfsdfghdrhfdgkjnfdsagkjnfdas.Text = [=[Lua Hammer]=]
+dfsdfghdrhfdgkjnfdsagkjnfdas.Font = Enum.Font.SourceSans
+dfsdfghdrhfdgkjnfdsagkjnfdas.BorderSizePixel = 0
+dfsdfghdrhfdgkjnfdsagkjnfdas.AnchorPoint = Vector2.new(0, 0)
+dfsdfghdrhfdgkjnfdsagkjnfdas.ZIndex = 1
+dfsdfghdrhfdgkjnfdsagkjnfdas.Visible = true
+dfsdfghdrhfdgkjnfdsagkjnfdas.Parent = Other
 
 local UIStroke = Instance.new("UIStroke")
 UIStroke.ZIndex = 1
-UIStroke.Parent = Pizzzzzza
+UIStroke.Parent = dfsdfghdrhfdgkjnfdsagkjnfdas
 
 local TextLabel = Instance.new("TextLabel")
 TextLabel.Size = UDim2.new(0, 271, 0, 18)
@@ -1151,7 +1148,7 @@ RemoteEvent.Parent = 777
 
 local Mod = Instance.new("TextButton")
 Mod.Size = UDim2.new(0, 57, 0, 25)
-Mod.Position = UDim2.new(0.5210168957710266, 0, 0.3472655713558197, 0)
+Mod.Position = UDim2.new(0.36418959498405457, 0, 0.34845876693725586, 0)
 Mod.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Mod.TextColor3 = Color3.fromRGB(255, 255, 255)
 Mod.Text = [=[John Doe]=]
@@ -1165,43 +1162,6 @@ Mod.Parent = Other
 local UIStroke = Instance.new("UIStroke")
 UIStroke.ZIndex = 1
 UIStroke.Parent = Mod
-
-local Pizzzzzza = Instance.new("TextButton")
-Pizzzzzza.Size = UDim2.new(0, 57, 0, 25)
-Pizzzzzza.Position = UDim2.new(0.6759486198425293, 0, 0.34614577889442444, 0)
-Pizzzzzza.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-Pizzzzzza.TextColor3 = Color3.fromRGB(255, 255, 255)
-Pizzzzzza.Text = [=[Tools]=]
-Pizzzzzza.Font = Enum.Font.SourceSans
-Pizzzzzza.BorderSizePixel = 0
-Pizzzzzza.AnchorPoint = Vector2.new(0, 0)
-Pizzzzzza.ZIndex = 1
-Pizzzzzza.Visible = true
-Pizzzzzza.Parent = Other
-
-local PizzaEvent = Instance.new("RemoteEvent")
-PizzaEvent.Parent = Pizzzzzza
-
-local UIStroke = Instance.new("UIStroke")
-UIStroke.ZIndex = 1
-UIStroke.Parent = Pizzzzzza
-
-local dfsdfghdrhfdgkjnfdsagkjnfdas = Instance.new("TextButton")
-dfsdfghdrhfdgkjnfdsagkjnfdas.Size = UDim2.new(0, 57, 0, 25)
-dfsdfghdrhfdgkjnfdsagkjnfdas.Position = UDim2.new(0.8349935412406921, 0, 0.3476991653442383, 0)
-dfsdfghdrhfdgkjnfdsagkjnfdas.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
-dfsdfghdrhfdgkjnfdsagkjnfdas.TextColor3 = Color3.fromRGB(255, 255, 255)
-dfsdfghdrhfdgkjnfdsagkjnfdas.Text = [=[Lua Hammer]=]
-dfsdfghdrhfdgkjnfdsagkjnfdas.Font = Enum.Font.SourceSans
-dfsdfghdrhfdgkjnfdsagkjnfdas.BorderSizePixel = 0
-dfsdfghdrhfdgkjnfdsagkjnfdas.AnchorPoint = Vector2.new(0, 0)
-dfsdfghdrhfdgkjnfdsagkjnfdas.ZIndex = 1
-dfsdfghdrhfdgkjnfdsagkjnfdas.Visible = true
-dfsdfghdrhfdgkjnfdsagkjnfdas.Parent = Other
-
-local UIStroke = Instance.new("UIStroke")
-UIStroke.ZIndex = 1
-UIStroke.Parent = dfsdfghdrhfdgkjnfdsagkjnfdas
 
 local Decals = Instance.new("Frame")
 Decals.Size = UDim2.new(0, 435, 0, 384)
